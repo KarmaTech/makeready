@@ -4520,7 +4520,7 @@ img.testimonial-thumb {
 
   min-height: 115px;
 
-  padding: 30px 0 0 30px;
+  padding: 30px 0 0 0;
 
 }
 
@@ -4542,7 +4542,7 @@ img.testimonial-thumb {
 
 .subscribe-call-to-acton h3 {
 
-  font-size: 18px;
+  font-size: 25px;
 
   margin-top: 0;
 
