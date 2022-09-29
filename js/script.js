@@ -279,10 +279,10 @@ jQuery(function ($) {
 		}
 		footer();
 
-		lightbox.option({
-			'fitImagesInViewport': true,
-			'wrapAround': true
-		  })
+		// lightbox.option({
+		// 	'fitImagesInViewport': true,
+		// 	'wrapAround': true
+		//   })
 
 	});
 
