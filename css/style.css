@@ -6799,3 +6799,15 @@ label {
   }
 
  }
+.services .ts-service-box{
+  margin-bottom: 25px;
+ }
+
+ .services .ts-service-box-img{
+  padding-bottom: 20px;
+ }
+
+
+ .services  .ts-service-info{
+  margin-left: 0px;
+ }
