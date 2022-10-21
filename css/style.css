@@ -5089,6 +5089,12 @@ img.testimonial-thumb {
 
 }
 
+p.slide-title{
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-family: "Montserrat", sans-serif;
+}
+
 @media (max-width: 575px) {
 
   .banner-title {
